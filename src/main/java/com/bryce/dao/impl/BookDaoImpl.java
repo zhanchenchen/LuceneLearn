@@ -27,9 +27,9 @@ public class BookDaoImpl implements BookDao {
             Class.forName("com.mysql.cj.jdbc.Driver");
             // 创建数据库连接对象
             conn = DriverManager.getConnection(
-                       "jdbc:mysql://127.0.0.1:3306/lucene?useSSL=false",
+                       "jdbc:mysql://127.0.0.1:3306/lucene?allowPublicKeyRetrieval=true&useSSL=false",
                        "root", 
-                       "123456");
+                       "mysqladmin");
             
             // 定义查询SQL
             String sql = "select * from book";

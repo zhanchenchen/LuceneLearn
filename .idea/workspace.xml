@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d59f2e35-c05d-4e6d-94ad-0444b8206f92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$CACHE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuceneLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LuceneLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bryce/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bryce/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bryce/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bryce/dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bryce/dao/impl/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bryce/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bryce/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bryce/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/IKAnalyzer.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ext_stopword.dic" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ext_stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mydict.dic" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mydict.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bryce/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bryce/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bryce/IndexManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bryce/IndexManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IKAnalyzer.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bryce/dao/impl/BookDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bryce/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ext_stopword.dic" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ext_stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mydict.dic" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mydict.dic" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +56,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/Program Files/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="/opt/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.8.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -36,7 +77,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.IndexManager.createIndex">
+  <component name="RunManager" selected="Application.BookDaoImpl">
     <configuration name="BookDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bryce.dao.impl.BookDaoImpl" />
       <module name="LuceneLearn" />
@@ -84,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookDaoImpl" />
         <item itemvalue="JUnit.IndexManager.createIndex" />
         <item itemvalue="JUnit.IndexManager.searchIndexTest" />
-        <item itemvalue="Application.BookDaoImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -104,52 +145,85 @@
       <workItem from="1626079767576" duration="6000" />
       <workItem from="1626085123721" duration="125000" />
       <workItem from="1626085305539" duration="544000" />
+      <workItem from="1626104298686" duration="573000" />
+      <workItem from="1627095617321" duration="1033000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1626067327818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626067327818" />
-    <state width="1876" height="366" key="GridCell.Tab.0.bottom" timestamp="1626074321868">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1626104887777">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321868" />
-    <state width="1876" height="366" key="GridCell.Tab.0.center" timestamp="1626074321868">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1626104887777" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1626104887776">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321868" />
-    <state width="1876" height="366" key="GridCell.Tab.0.left" timestamp="1626074321868">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1626104887776" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1626104887776">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321868" />
-    <state width="1876" height="366" key="GridCell.Tab.0.right" timestamp="1626074321868">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1626104887776" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1626104887776">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321868" />
-    <state width="1876" height="366" key="GridCell.Tab.1.bottom" timestamp="1626074321773">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1626104887776" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1626104887778">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321773" />
-    <state width="1876" height="366" key="GridCell.Tab.1.center" timestamp="1626074321773">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1626104887778" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1626104887777">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321773" />
-    <state width="1876" height="366" key="GridCell.Tab.1.left" timestamp="1626074321773">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1626104887777" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1626104887777">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321773" />
-    <state width="1876" height="366" key="GridCell.Tab.1.right" timestamp="1626074321773">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1626104887777" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1626104887778">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1876" height="366" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626074321773" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1626104887778" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1626104756782">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1626104756782" />
+    <state x="508" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627095623471">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="508" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.827@0.23.1440.827" timestamp="1627095623471" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1626067347491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1626067347491" />
+    <state x="450" y="334" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1626104592744">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="450" y="334" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.826@0.23.1440.826" timestamp="1626104592744" />
   </component>
 </project>
